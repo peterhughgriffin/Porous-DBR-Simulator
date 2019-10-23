@@ -1,6 +1,6 @@
 # Porous DBR Simulator
 
-This code has been written to simulate the reflectivity of porous GaN DBRs. It can be easily adapted to other porous DBRs by changing the refractive index of the solid medium and even of the pores (i.e. for pores filled with liquid). It uses 
+This code has been written to simulate the reflectivity of porous GaN DBRs. It can be easily adapted to other porous DBRs by changing the refractive index of the solid medium and even of the pores (i.e. for pores filled with liquid).
 
 ## Prerequisites
 

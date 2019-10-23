@@ -2,6 +2,8 @@
 
 This code simulates the reflectivity of porous GaN DBRs using a transfer matrix model (TMM). It can be easily adapted to other porous DBRs by changing the refractive index of the solid medium and even of the pores (i.e. for pores filled with liquid).
 
+The included .csv files are refractive index data for GaN over a range of wavelengths. These were obtained from: https://refractiveindex.info/?shelf=main&book=GaN&page=Barker-o
+
 ## Prerequisites
 
 The code is written for python 3 and requires aspects of numpy and scipy, and the example uses matplotlib.
